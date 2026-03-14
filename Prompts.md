@@ -36,3 +36,11 @@ A vintage 1920s rubber-hose style cartoon illustration, monotone black and white
 ```text
 A vintage 1920s rubber-hose style cartoon illustration character design reference sheet. Strictly solid black and white (monotone), gothic 1930s animation aesthetic, heavy charcoal sketch texture, visible film grain. A front-facing T-pose of [CHARACTER DESCRIPTION]. The design must be extremely simplified, bold, and iconic, avoiding over-detailed illustration in favor of clear, readable cartoon shapes (ideal for consistent AI video generation). The character must have exactly two arms and two legs, with classic rubber-hose features: pie-cut eyes, spherical or tubular joints, and oversized white four-fingered gloves. The limbs are rubbery and spaghetti-like without bones. The background is a stark, clean white to isolate the character design. High contrast, spooky yet charming. Do not include extra limbs.
 ```
+
+## 5. Environment Establishing Shot
+
+**Platform:** Midjourney / Image Gen
+**Use Case:** Generating background plates for key locations in Inkwell Innsmouth. Follows the `designer` skill rules.
+```text
+A cinematic, ultra-wide 16:9 1920s rubber-hose style 2D animation background plate illustration. Strictly solid black and white (monotone) with extreme high contrast. It must look like a gorgeous, atmospheric 1930s animation background ready for characters to walk across. Heavy charcoal sketch texture and pervasive heavy vintage film grain overlay. Do NOT include physical drawn-on film borders, sprocket holes, or framing devices—the image itself should be a pure, edge-to-edge landscape. The scene depicts [LOCATION DESCRIPTION]. The architecture exhibits loose, sagging, and elastic 1920s line work. Buildings warp and lean inward. Deep cinematic depth of field. Perpetual, heavy coastal fog creates a moody, moonlight-driven lighting. Very high contrast, spooky atmospheric depth. Aspect ratio 16:9. No text.
+```

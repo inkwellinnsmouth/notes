@@ -10,7 +10,7 @@ All media (characters, objects, settings, and animation clips) must strictly rep
 > **Medium:** Gritty, heavy charcoal sketch and raw black ink wash texture, with visible analog paper grain and a pervasive, heavy vintage film grain overlay. Avoid smooth, clean modern digital painting or vector lines. 
 > **Line Quality:** Loose, hand-drawn, warped, sagging, and elastic 1920s rubber-hose line work. Buildings warp and lean; objects have organic, bouncy weight. 
 > **Palette:** Total monotone, high-contrast black and white. 
-> **Framing:** All major art must be contained within a wide, horizontal 16:9 composition flanked on the far left and right by authentic, detailed, vintage film strip sprocket hole borders with integrated black ink splatters. 
+> **Framing:** All major art must be framed specifically for a cinematic, wide 16:9 aspect ratio. Do NOT include drawn-on film borders or sprocket holes within the image itself.
 > **Atmosphere and Lighting:** Perpetual, heavy, diffused coastal fog/mist is mandatory, creating a pervasive, moody, diffused moonlight-driven lighting. Cthulhu-like tentacles are subtly woven into architecture or silhouetted in the fog.
 
 ## 3. Tech Stack & Production Pipeline
