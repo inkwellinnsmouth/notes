@@ -11,7 +11,7 @@ To ensure absolute brand consistency over time, all creative, narrative, and pro
 ### Current Roster:
 * **Lead Producer** (`lead_producer`): Manages channel strategy, production timelines, outlines checklists, and orchestrates the other agents.
 * **Storywriter** (`storywriter`): Develops the narrative, plots, and scripting with the appropriate 1920s/Eldritch tone.
-* **Character Concept Artist** (`character`): Brainstorms 1920s x Lovecraftian character concepts (e.g., rubber-hose anatomy + cosmic horror traits).
+* **Character Concept Artist** (`character`): Brainstorms 1920s x Lovecraftian character concepts (e.g., rubber-hose anatomy + cosmic horror traits). Protagonists and main relatable characters should primarily lean towards human 1920s designs (e.g., Fleischer humans, Buster Keaton analogs) rather than generic animal mascots.
 * **Concept Visual Designer** (`designer`): Creates visual assets and acts as the gatekeeper for the strict aesthetic rules (monotone charcoal, film grain).
 * **Storyboard Artist** (`storyboard`): Breaks down scripts into visual shots and sequential scenes.
 * **Animation Director** (`director`): Guides the motion, camera, and physics (bouncy, elastic, spaghetti limbs).
@@ -26,3 +26,4 @@ To ensure absolute brand consistency over time, all creative, narrative, and pro
    * **Visuals:** Monotone black and white, heavy charcoal sketch texture, pervasive fog, visible film grain.
    * **Physics:** 1920s rubber-hose dynamics (pie-cut eyes, floating limbs, squash and stretch).
    * **Tone:** Spooky, moody, Eldritch dread mixed with old-time cartoon charm.
+6. **Iterative Image Generation:** NEVER generate more than one image at a time. Always generate a single image (e.g., just the front T-pose), save it directly to the relevant `images/` directory, and WAIT for user approval and feedback before generating the next image in the sequence (e.g., the back T-pose).

@@ -28,3 +28,11 @@ A wide, horizontal panoramic banner image designed for a YouTube channel titled 
 A vintage 1920s rubber-hose style cartoon illustration, monotone black and white, suitable for a tiny YouTube video watermark (PNG format). The central focus is an ultra-simplified, very bold, highly iconic representation of the ornate, gothic animation inkwell from the avatar. From the neck of the inkwell, a single, clear, rubbery Cthulhu tentacle is emerging, curled, holding an old-fashioned animation dip pen. The lines are extremely clean, thick, and bouncy, designed for maximum clarity at minuscule dimensions (like 150x150 pixels). The background is solid, clean, pure white, intended to be easily removed for transparency. There are no gradients, shadows, or complex radiating patterns. High contrast, clean edges, simplified form, high memorability. Must be 150x150px.
 ```
 *(References: `media/watermark.png`, `media/watermark_small.png`)*
+
+## 4. Standard Character Reference Sheet
+
+**Platform:** Midjourney / Image Gen
+**Use Case:** Generating front/back T-Pose reference sheets for new characters to ensure absolute design consistency for AI video generation.
+```text
+A vintage 1920s rubber-hose style cartoon illustration character design reference sheet. Strictly solid black and white (monotone), gothic 1930s animation aesthetic, heavy charcoal sketch texture, visible film grain. A front-facing T-pose of [CHARACTER DESCRIPTION]. The design must be extremely simplified, bold, and iconic, avoiding over-detailed illustration in favor of clear, readable cartoon shapes (ideal for consistent AI video generation). The character must have exactly two arms and two legs, with classic rubber-hose features: pie-cut eyes, spherical or tubular joints, and oversized white four-fingered gloves. The limbs are rubbery and spaghetti-like without bones. The background is a stark, clean white to isolate the character design. High contrast, spooky yet charming. Do not include extra limbs.
+```

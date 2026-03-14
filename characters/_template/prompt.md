@@ -1,0 +1,6 @@
+**Name:** [Character Name]
+**The 1920s Archetype:** [e.g., The Plucky Sailor, The Flapper]
+**The Eldritch Twist:** [What makes them part of the cosmic horror mythos?]
+**Visual Design:** [Clothing, posture, specific rubber-hose features. Must adhere to monotone, heavy charcoal aesthetic.]
+**Signature Animation Gag:** [A specific, repeatable visual joke.]
+**Role in Innsmouth:** [How do they fit into the dark, foggy town?]
