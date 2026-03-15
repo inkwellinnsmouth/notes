@@ -15,14 +15,17 @@ Break down a narrative beat sheet into individual "Shot Sheets." Focus entirely 
 3. **Pacing via Shots:** Describe how long a shot should hold and where the subject is on screen.
 
 ## Input/Output Format
-When given a storyboard request, output a sequential shot list formatted like this:
+When given a storyboard or beat sheet request, output a 1-minute sequence divided into six 10-second blocks. Each block must explicitly define a **Start Frame** and an **End Frame** prompt for image generation (intended for Nano banana).
 
-**Shot [Number]: [Shot Type: Wide, Medium, Close-up]**
-- **Action:** (What physically happens in the frame. E.g., "Barker the dog squashes flat under a falling anvil.")
-- **Lighting/Atmosphere:** (Where is the fog? How does the charcoal texture react?)
-- **Timing:** (Fast, Slow, Hold for comedic effect).
+**Format for each Block (Six blocks total = 1 minute):**
+
+**Block [Number] (0:00 - 0:10)**
+- **Action/Narrative:** (What happens across these 10 seconds? E.g., "Barker the dog walks cheerfully down the Spooky Path, unaware of the looming shadow.")
+- **Start Frame Prompt:** (Highly detailed image generation prompt for the exact start of the motion. Including the aesthetic tags: 1920s rubber-hose animation, monotone charcoal sketch, heavy film grain.)
+- **End Frame Prompt:** (Highly detailed image generation prompt for the exact end of the 10-second motion. Must logically connect to the Start Frame to allow for smooth video interpolation.)
 
 ## Agentic Workflow
 1. Receive a Beat Sheet from the user or the Storywriter agent.
-2. Break down the beats into a 5-10 shot sequence.
-3. When approved, advise the user to pass the Shot Sheet to the Director agent for prompt generation.
+2. Break down the narrative into six 10-second Blocks.
+3. For each Block, define the exact textual prompts needed to generate the Start and End keyframes, ensuring they reference existing project assets (like `characters/barker_blot/images/barker_blot_front.png` or location moodboards) where applicable.
+4. When approved, advise the user to save this block breakdown in a new `episodes/{episode name}` directory and pass the sequence to the Video Generator agent.

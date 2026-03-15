@@ -57,3 +57,5 @@ Once the storyboard is perfect, we bring it to life.
 ## Output
 
 You will be left with a series of 3-5 second MP4 clips that are perfectly styled and character-consistent. These clips are then stitched together in your preferred video editor (e.g., Premiere, CapCut) along with audio and sound effects.
+
+**CRITICAL AUDIO RULE:** Do *not* use Higgsfield's AI lip-sync or voice generation tools. All "Inkwell Innsmouth" videos are "Silent Era" cartoons. They should rely entirely on exaggerated motion, environmental sound effects, and a bouncy 1920s musical soundtrack added in post-production. AI voices will break the aesthetic.

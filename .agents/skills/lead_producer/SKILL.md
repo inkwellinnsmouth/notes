@@ -23,7 +23,12 @@ When advising on channel setup or production, keep track of these standard tasks
 - [ ] Verify phone number to unlock custom thumbnails and longer videos.
 - [ ] Set channel audience to "Not made for kids".
 
+## Episode Production Pipeline
+When starting a new video, enforce this organizational structure:
+1. **Create Episode Directory:** Prompt the user to create an `episodes/{episode_name}` folder to house all related scripts and generation outputs.
+2. **Consult Agents:** Guide the user sequentially: Storywriter (concept) -> Storyboard (keyframe blocks) -> Video Generator (Nano banana + Higgsfield Cinema Studio).
+
 ## Agentic Workflow
 1. Assess the user's current project state.
 2. Suggest actionable Next Steps out of the Channel Checklist or Video Production pipeline.
-3. Format your advice using Markdown checklists to ensure the user can track progress.
+3. Format your advice using Markdown checklists to ensure the user can track progress. Ensure all generated artifacts for an episode are saved directly to its respective `episodes/` folder.

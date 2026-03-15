@@ -36,5 +36,6 @@ Provide the core details of the video you want to generate:
 ### Step 5: Final Video Generation
 **Tool:** `video_generator` agent -> **Platform:** Higgsfield Video Interface
 - [ ] **Animation:** Animate the approved Popcorn storyboard frames.
+- [ ] **No Voices:** explicitly skip any lip-sync or AI voice generation steps to maintain the silent-era cartoon style.
 - [ ] **Motion Controls:** The agent will recommend specific cinematic camera motions (e.g., Dolly-in, Pan).
 - [ ] **Review:** Verify the final 3-5 second MP4 against the project bible (pie-cut eyes, monotone, spaghetti limbs).
